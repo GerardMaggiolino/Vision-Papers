@@ -94,6 +94,8 @@ DropBlock: [DropBlock: A regularization method for convolutional networks](https
 
 D2-Net: [A Trainable CNN for Joint Detection and Description of Local Features](https://arxiv.org/abs/1905.03561) 
 
+CORAL: [Rank consistent ordinal regression for neural networks with application to age estimation](https://arxiv.org/abs/1901.07884)
+
 SiamRPN++: [Evolution of Siamese Visual Tracking with Very Deep Networks](https://arxiv.org/abs/1812.11703)
 
 QATM: [Quality-Aware Template Matching For Deep Learning](https://arxiv.org/abs/1903.07254)
