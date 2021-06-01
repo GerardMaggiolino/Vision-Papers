@@ -44,6 +44,8 @@ ResNeXt: [Aggregated Residual Transformations for Deep Neural Networks](https://
 
 DenseNet: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
+Layer Norm: [Layer Normalization](https://arxiv.org/abs/1607.06450)
+
 ### 2017
 
 CycleGaN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
@@ -67,6 +69,8 @@ Mask R-CNN: [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 DeepLabv3: [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
 
 Soft-NMS: [Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
+
+Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ### 2018 
 
