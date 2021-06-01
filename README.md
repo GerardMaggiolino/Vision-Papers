@@ -118,6 +118,9 @@ MOCO: [Momentum Contrast for Unsupervised Visual Representation Learning](https:
 
 CutMix: [Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899)
 
+GIoU: [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/abs/1902.09630)
+
+
 ### 2020
 
 FCDD: [Explainable Deep One-Class Classification](https://arxiv.org/abs/2007.01760)
@@ -139,6 +142,8 @@ YOLOv4: [Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2
 ViT: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 DETR: [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
+
+PaDiM: [a Patch Distribution Modeling Framework for Anomaly Detection and Localization](https://arxiv.org/abs/2011.08785)
 
 
 ### 2021
