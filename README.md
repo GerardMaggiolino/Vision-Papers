@@ -46,6 +46,8 @@ DenseNet: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.
 
 Layer Norm: [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
+Weight Normalization: [A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
+
 ### 2017
 
 CycleGaN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
