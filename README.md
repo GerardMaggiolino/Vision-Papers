@@ -48,7 +48,7 @@ Layer Norm: [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
 Weight Normalization: [A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
 
-Learning [without Forgetting](Learning without Forgetting)
+Learning [without Forgetting](https://arxiv.org/abs/1606.09282)
 
 ### 2017
 
