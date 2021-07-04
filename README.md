@@ -48,6 +48,8 @@ Layer Norm: [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
 Weight Normalization: [A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
 
+Learning [without Forgetting](Learning without Forgetting)
+
 ### 2017
 
 CycleGaN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
@@ -147,6 +149,7 @@ DETR: [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005
 
 PaDiM: [a Patch Distribution Modeling Framework for Anomaly Detection and Localization](https://arxiv.org/abs/2011.08785)
 
+FairMOT: [On the Fairness of Detection and Re-Identification in Multiple Object Tracking](https://arxiv.org/abs/2004.01888)
 
 ### 2021
 
